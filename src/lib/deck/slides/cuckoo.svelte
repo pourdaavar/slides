@@ -64,4 +64,47 @@
 			random walks.
 		</p>
 	</section>
+
+	<section data-auto-animate>
+		<p>Cuckoo Search</p>
+
+		<p class="text-2xl">
+			studies show that CS is potentially far more efficient than PSO, genetic algorithms, and other
+			algorithms.
+		</p>
+	</section>
+
+	<section data-auto-animate>
+		<p>Cuckoo Search</p>
+
+		<p class="text-2xl">
+			studies show that CS is potentially far more efficient than PSO, genetic algorithms, and other
+			algorithms.
+		</p>
+
+		<p>Why?</p>
+	</section>
+
+	<section data-auto-animate>
+		<p>Cuckoo Search</p>
+
+		<p class="text-2xl">
+			studies show that CS is potentially far more efficient than PSO, genetic algorithms, and other
+			algorithms.
+		</p>
+
+		<p>Why?</p>
+
+		<ul class="text-2xl">
+			<li>Global Convergence Assurance</li>
+			<li>Dual Search Strategies</li>
+			<li>Efficient Global Search Using Lévy Flights</li>
+		</ul>
+	</section>
 </section>
+
+<style>
+	p + ul {
+		@apply ml-16;
+	}
+</style>
