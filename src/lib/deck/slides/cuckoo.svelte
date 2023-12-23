@@ -1,10 +1,10 @@
 <section class="text-left">
 	<section data-auto-animate>
-		<p>Cuckoo Search</p>
+		<p>3. Cuckoo Search</p>
 	</section>
 
 	<section data-auto-animate>
-		<p>Cuckoo Search</p>
+		<p>3. Cuckoo Search</p>
 
 		<p data-id="x" class="text-2xl">
 			CS is one of the latest nature-inspired metaheuristic algorithms
@@ -12,7 +12,7 @@
 	</section>
 
 	<section data-auto-animate>
-		<p>Cuckoo Search</p>
+		<p>3. Cuckoo Search</p>
 
 		<p data-id="x" class="text-2xl">
 			CS is one of the latest nature-inspired metaheuristic algorithms,
@@ -25,7 +25,7 @@
 	</section>
 
 	<section data-auto-animate>
-		<p>Cuckoo Search</p>
+		<p>3. Cuckoo Search</p>
 
 		<p data-id="x" class="text-2xl">
 			CS is one of the latest nature-inspired metaheuristic algorithms,
@@ -43,7 +43,7 @@
 	</section>
 
 	<section data-auto-animate>
-		<p>Cuckoo Search</p>
+		<p>3. Cuckoo Search</p>
 
 		<p data-id="x" class="text-2xl">
 			CS is one of the latest nature-inspired metaheuristic algorithms,
@@ -66,7 +66,7 @@
 	</section>
 
 	<section data-auto-animate>
-		<p>Cuckoo Search</p>
+		<p>3. Cuckoo Search</p>
 
 		<p class="text-2xl">
 			studies show that CS is potentially far more efficient than PSO, genetic algorithms, and other
@@ -75,7 +75,7 @@
 	</section>
 
 	<section data-auto-animate>
-		<p>Cuckoo Search</p>
+		<p>3. Cuckoo Search</p>
 
 		<p class="text-2xl">
 			studies show that CS is potentially far more efficient than PSO, genetic algorithms, and other
@@ -86,7 +86,7 @@
 	</section>
 
 	<section data-auto-animate>
-		<p>Cuckoo Search</p>
+		<p>3. Cuckoo Search</p>
 
 		<p class="text-2xl">
 			studies show that CS is potentially far more efficient than PSO, genetic algorithms, and other

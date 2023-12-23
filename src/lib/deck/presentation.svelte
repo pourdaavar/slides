@@ -4,7 +4,9 @@
 	import Nature from './slides/nature.svelte';
 	import Overview from './slides/overview-of-optimization-algorithms.svelte';
 	import Cuckoo from './slides/cuckoo.svelte';
+	import Flowchart from './slides/flowchart.svelte';
 	import Definition from './slides/definition.svelte';
+	import Pseudocode from './slides/pseudo.svelte';
 </script>
 
 <Intro />
@@ -18,3 +20,7 @@
 <Cuckoo />
 
 <Definition />
+
+<Flowchart />
+
+<Pseudocode />

@@ -1,4 +1,4 @@
-<section>
+<section class="text-left">
 	<section data-auto-animate>
 		<div>1. The cuckoo, the nature</div>
 	</section>

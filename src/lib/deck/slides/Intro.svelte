@@ -22,7 +22,8 @@
 			</span>
 			Cuckoo Algorithm
 		</p>
-		<div class="text-5xl font-semibold md:text-2xl">Hossein Pourdavar</div>
+		<div class="text-5xl font-semibold md:text-3xl">Prof. Dr Heidarian</div>
+		<div class="text-5xl  md:text-2xl">Hossein Pourdavar</div>
 		<div class="text-4xl md:text-xl mt-5 md:mt-0">December 2023</div>
 	</section>
 </section>
