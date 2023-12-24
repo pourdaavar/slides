@@ -7,6 +7,7 @@
 	import Flowchart from './slides/flowchart.svelte';
 	import Definition from './slides/definition.svelte';
 	import Pseudocode from './slides/pseudo.svelte';
+	import Ref from './slides/ref.svelte';
 </script>
 
 <Intro />
@@ -24,3 +25,5 @@
 <Flowchart />
 
 <Pseudocode />
+
+<Ref />
