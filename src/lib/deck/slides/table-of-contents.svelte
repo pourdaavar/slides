@@ -56,4 +56,16 @@
 		<Li index="5" text="Flowchart" />
 		<Li index="6" text="Pesudocode" />
 	</section>
+	
+	<section data-auto-animate>
+		<p>Table of contents:</p>
+
+		<Li index="1" text="The cuckoos, The nature" />
+		<Li index="2" text="Overview of Optimization Algorithms" />
+		<Li index="3" text="Introduction to Cuckoo Algorithm" />
+		<Li index="4" text="Define Algorithm" />
+		<Li index="5" text="Flowchart" />
+		<Li index="6" text="Pesudocode" />
+		<Li index="7" text="References" />
+	</section>
 </section>

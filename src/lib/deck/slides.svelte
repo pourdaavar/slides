@@ -9,7 +9,7 @@
 	import Presentation from './presentation.svelte';
 
 	import 'reveal.js/dist/reveal.css';
-	import 'reveal.js/dist/theme/dracula.css';
+	import 'reveal.js/dist/theme/white-contrast.css';
 	import 'reveal.js/plugin/highlight/monokai.css';
 
 	onMount(() => {
